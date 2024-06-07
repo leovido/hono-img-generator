@@ -1,8 +1,8 @@
 ## Image generation with Hono
 
 ```
-npm install
-npm run dev
+pnpm install
+pnpm run dev
 ```
 
 ## Credit
